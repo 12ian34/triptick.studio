@@ -1,0 +1,27 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #010101 !important;
+    /* margin: 10%; */
+    padding: 0% 5% 5% 5%;
+    font-size: 100%;
+}
+
+h1 {
+    font-size: clamp(1.8em, 4.5vw, 2.7em);
+    color: #CCCCCC;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    position: relative;
+}
+
+p {
+    font-size: clamp(1.2em, 3vw, 1.2em);
+    font-family: 'Work Sans', sans-serif;
+    color: #CCCCCC;
+    line-height: 1.3em;
+    text-align: center;
+}
